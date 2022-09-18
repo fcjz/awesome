@@ -9,8 +9,11 @@ this is a awesome list by fcjz.
 
 大概人们也可以通过这些资源了解到好玩的东西？并且更加了解我。
 
+这个awesome的主题是探索在当今互联网中生活的一百种方式，作者本人希望在网络上独立自由地生存，所以awesome列出的资源主要侧重于博客、播客、数字花园、社交网络等等。
+
 # 目录：
 
 - Wiki
 - blog
 - social media
+- 
