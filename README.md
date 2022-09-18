@@ -28,6 +28,7 @@ this is a awesome list by fcjz.
 - animation
 - novel
 - movie
+- papers
 - The software the author is using
 - Websites that the author frequently visits
 - webring or digital garden
