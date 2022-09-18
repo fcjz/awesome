@@ -1,3 +1,7 @@
+![awesome](https://github.com/fcjz/awesome/blob/main/awesome.png)
+
+#
+
 # awesome
 this is a awesome list by fcjz.
 
