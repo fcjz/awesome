@@ -5,4 +5,8 @@ this is a awesome list by fcjz.
 
 大概人们也可以通过这些资源了解到好玩的东西？并且更加了解我。
 
+# 目录：
 
+- Wiki
+- blog
+- social media
