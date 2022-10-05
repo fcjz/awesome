@@ -41,4 +41,57 @@ this is a awesome list by fcjz.
 - TiddlyWiki
 - monotome
 - raneto
-- 
+- jingo
+- simiki
+- vimwiki
+- gollum
+- 一些关于Wiki的优秀文章及优质Wiki
+
+## blog
+
+- hugo
+- hexo
+- gridea
+- NotionNext
+- Quartz
+- 一些关于blog的优秀文章及优质blog
+
+## social media
+
+- mastodon
+- special fish
+- GNU social
+- pump.io
+- twitter
+- tumblr
+- pixiv
+
+## search engine
+
+- yacy
+- searx
+- searxNG
+- ecosia
+- yandex
+- bing
+- google
+
+## image board
+
+- 4chan
+- 2chan
+- 5chan
+- 8chan
+- X岛（原A岛）
+- B岛
+- 阿苇岛
+- 岛民岛
+
+## email
+
+- Gmail
+- yandex mail
+- outlook
+- 自建域名邮箱
+
+## IRC
